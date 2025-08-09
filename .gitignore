@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*.so
+.venv/
+env/
+venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# Docker
+*.log
+
+# System files
+Thumbs.db
